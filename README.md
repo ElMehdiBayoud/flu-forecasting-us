@@ -1,6 +1,6 @@
 # Forecasting Seasonal Influenza Activity in US HHS Regions
 
-This repository contains our group project for the time series forecasting course.
+GROUP PROJECT
 
 We build a **real-life-like forecasting pipeline** using public health surveillance data from the **CDC FluView** system, focusing on **weekly influenza-like illness (ILI) activity** across US HHS regions.
 
