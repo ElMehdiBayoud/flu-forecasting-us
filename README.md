@@ -149,6 +149,8 @@ Metrics are reported:
 ├─ requirements.txt
 └─ .gitignore
 
+```
+
 ## 7. Getting Started
 
 1.  **Clone the repository:**
