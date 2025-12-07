@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+missingno
+scikit-learn
+statsmodels
+tensorflow
+keras-tuner
+joblib
+pyarrow
+fsspec
+shap
+optuna
+catboost
+duckdb
