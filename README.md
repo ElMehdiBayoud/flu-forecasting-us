@@ -156,7 +156,7 @@ Metrics are reported:
 1.  **Clone the repository:**
     ```bash
 
-    git clone [https://github.com/ElMehdiBayoud/drug-launch-analytics.git](https://github.com/ElMehdiBayoud/flu-forecasting-us)
+    git clone [https://github.com/ElMehdiBayoud/flu-forecasting-us/](https://github.com/ElMehdiBayoud/flu-forecasting-us/)
     ```
 2.  **Install dependencies:**
     ```bash
