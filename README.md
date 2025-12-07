@@ -130,20 +130,11 @@ Metrics are reported:
 │  ├─ raw/              # raw FluView exports (not tracked)
 │  └─ processed/
 │     └─ flu_panel_clean.csv
-├─ notebooks/
-│  ├─ 01_eda_flu.ipynb
-│  ├─ 02_feature_engineering_splits.ipynb
-│  ├─ 03_baselines_and_sarima.ipynb
-│  ├─ 04_global_ml_panel_model.ipynb
-│  └─ 05_evaluation_and_plots.ipynb
-├─ src/
-│  ├─ data_prep.py
-│  ├─ features.py
-│  ├─ models.py
-│  ├─ metrics.py
-│  └─ plotting.py
+├─ notebook/
+│  ├─ notebooks/flu-forecasting.ipynb.ipynb
 ├─ reports/
 │  ├─ figures/
+│  ├─ metrics/
 │  └─ group_report.pdf
 ├─ README.md
 ├─ requirements.txt
