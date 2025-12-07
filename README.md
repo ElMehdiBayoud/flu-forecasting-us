@@ -148,3 +148,21 @@ Metrics are reported:
 ├─ README.md
 ├─ requirements.txt
 └─ .gitignore
+
+```
+
+## 7. Getting Started
+
+1.  **Clone the repository:**
+    ```bash
+
+    git clone [https://github.com/ElMehdiBayoud/flu-forecasting-us.git](https://github.com/ElMehdiBayoud/flu-forecasting-us.git)
+    ```
+2.  **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+3.  **Data Access:**
+    * This project uses public **CDC FluView** data.
+4.  **Run the Notebook:**
+    * Open `notebooks/flu-forecasting.ipynb` and run all cells.
